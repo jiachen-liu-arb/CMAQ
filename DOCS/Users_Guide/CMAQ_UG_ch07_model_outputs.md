@@ -320,7 +320,7 @@ select photolysis rates and flux values.  This file is only created if the CTM_P
 
 <a id=ctm_rj2></a>
 
-**CCTM_PHOTDIAG2_2: In-line photolysis output – gridded photolysis rates**
+**CCTM_PHOTDIAG2: In-line photolysis output – gridded photolysis rates**
 <!-- BEGIN COMMENT -->
 [Return to Table 7-1](#ctm_rj2_t)
 <!-- END COMMENT -->
